@@ -5,3 +5,4 @@ scikit-learn
 plotly
 xlrd
 openpyxl
+joblib
